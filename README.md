@@ -1,6 +1,6 @@
-# Prodigy Internship Tasks
+# Data Science Notebooks
 ## 📋 Project Overiew
-During this internship, I undertook a comprehensive project that included several key data science tasks, aimed at improving my skills and expanding my knowledge. The project encompassed various stages, from data cleaning to advanced analytical techniques such as  Data Cleaning, Data Visulaization, Exploratory Data Analysis, Decision Tree Classifier and Sentiment Analysis on various datasets.
+During this project, I undertook a comprehensive data science initiative aimed at improving my skills and expanding my knowledge. The project covered several key stages, including data cleaning, data visualization, exploratory data analysis (EDA), decision tree classification, and sentiment analysis, applied to various datasets.
 ## 📊 Key Features
 - EDA on FIFA Dataset: Conducted exploratory data analysis to visualize the distribution of key player attributes such as stamina, skills, age, potential, and penalties using histograms.  
 - Correlation Analysis on Student Performance Dataset: Performed data preprocessing and cleaning followed by correlation analysis using Seaborn to explore relationships between various performance metrics through heatmaps, pairplots, relplots, distplots, and catplots. 
